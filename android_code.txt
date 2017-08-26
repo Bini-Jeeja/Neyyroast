@@ -1,0 +1,6 @@
+config name				git config --global user.name "Bini-Jeeja"
+config email				git config --global user.name "marymatha373@gmail.com"
+get reprository from github     	git clone https://github.com/Bini-Jeeja/Neyyroast.git
+check status				git status
+add file				git add android_code.txt
+send our current process		git commit -am "created a file"
